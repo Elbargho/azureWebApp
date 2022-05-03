@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'countersWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_974467E8C27F46BF967153B0CBE03298 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0DD4D2B8C0D4BD3828089BF09722A6E }}
